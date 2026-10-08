@@ -1,7 +1,6 @@
-## diwali_sales_analysis_project
-a learning e-commerce customer and sales analysis using exploratory data analysis (EDA) in python.
- Data Analytics Project — Exploratory Data Analysis
-
+## Diwali Sales Exploratory Data Analysis
+ A learning e-commerce customer and sales analysis using exploratory data analysis (EDA) in python.
+ 
 📌 Overview
 
 This project focuses on analyzing a dataset using Python to uncover meaningful insights and patterns. The project includes data loading, exploratory data analysis (EDA), data cleaning, transformation, and visualization.
